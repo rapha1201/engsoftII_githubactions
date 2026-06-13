@@ -1,0 +1,1 @@
+# não há dependências. python nativo já tem pytest
